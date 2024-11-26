@@ -35,7 +35,7 @@ A React-based user management dashboard that provides role-based access control 
 
 1. Clone the repository:
 
-git clone <your-repo-url>
+git clone https://github.com/amogh-55/-RBAC-Admin-Dashboard
 cd user-management-system
 
 2. Install dependencies:
